@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/demo-site-react-usual-bootstrap/static/css/main.53835eef.css",
+    "main.js": "/demo-site-react-usual-bootstrap/static/js/main.94633360.js",
+    "static/js/787.7afa75ff.chunk.js": "/demo-site-react-usual-bootstrap/static/js/787.7afa75ff.chunk.js",
+    "static/media/kartinka-6.jpg": "/demo-site-react-usual-bootstrap/static/media/kartinka-6.8894563d199ef838e37a.jpg",
+    "static/media/8.jpg": "/demo-site-react-usual-bootstrap/static/media/8.ef50d30a75af957630ed.jpg",
+    "static/media/6.jpeg": "/demo-site-react-usual-bootstrap/static/media/6.9d858be59fcb175321a6.jpeg",
+    "static/media/4.jpg": "/demo-site-react-usual-bootstrap/static/media/4.b8775b22bef1b8821a44.jpg",
+    "static/media/5.jpg": "/demo-site-react-usual-bootstrap/static/media/5.c4ecb532d02525870aa0.jpg",
+    "static/media/2.jpg": "/demo-site-react-usual-bootstrap/static/media/2.58c6032fb47fc3d104a3.jpg",
+    "static/media/1645837417_5-kartinkin-net-p-kartinki-chernoe-more-6.jpg": "/demo-site-react-usual-bootstrap/static/media/1645837417_5-kartinkin-net-p-kartinki-chernoe-more-6.c2e94442a1fddfa13af8.jpg",
+    "static/media/9.jpg": "/demo-site-react-usual-bootstrap/static/media/9.84efb872209764d5364c.jpg",
+    "static/media/7.jpg": "/demo-site-react-usual-bootstrap/static/media/7.4de8e1f3a8837047b996.jpg",
+    "static/media/3.jpg": "/demo-site-react-usual-bootstrap/static/media/3.7df61d2682149a57d0f8.jpg",
+    "static/media/karp-14215.jpg": "/demo-site-react-usual-bootstrap/static/media/karp-14215.bb37f948b4e1d08a7535.jpg",
+    "static/media/1.jpeg": "/demo-site-react-usual-bootstrap/static/media/1.00ad750a91f717a10ab1.jpeg",
+    "static/media/foto-c4-grand-picasso_01.jpg": "/demo-site-react-usual-bootstrap/static/media/foto-c4-grand-picasso_01.e182cd7cd59646a06719.jpg",
+    "static/media/vv.png": "/demo-site-react-usual-bootstrap/static/media/vv.8c1f11195985d8ef2d4b.png",
+    "index.html": "/demo-site-react-usual-bootstrap/index.html",
+    "main.53835eef.css.map": "/demo-site-react-usual-bootstrap/static/css/main.53835eef.css.map",
+    "main.94633360.js.map": "/demo-site-react-usual-bootstrap/static/js/main.94633360.js.map",
+    "787.7afa75ff.chunk.js.map": "/demo-site-react-usual-bootstrap/static/js/787.7afa75ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53835eef.css",
+    "static/js/main.94633360.js"
+  ]
+}
