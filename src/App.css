@@ -1,0 +1,20 @@
+
+.col-lg-6>img {
+  border-radius: 5%;
+  width: 80%;
+}
+
+.nav-link:hover {
+  background-color: rgb(69, 68, 67);
+}
+
+.navbar-nav .nav-link.active {
+  color: aqua;
+}
+.content a{
+  margin: 2px;
+}
+.carousel {
+  margin: 5%;
+  display: inline-block;
+}
